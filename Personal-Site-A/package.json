@@ -1,0 +1,11 @@
+{
+  "name": "@thetatools/delta-personalsitea",
+  "version": "1.0.0",
+  "description": "This is a simple to use template for a personal website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ThetaTools",
+  "license": "Apache-2.0"
+}
