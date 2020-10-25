@@ -1,0 +1,19 @@
+{
+  "name": "@thetatools/delta-set",
+  "version": "1.0.0",
+  "description": "Theta Tools: Delta Set is a set of HTML based website templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theta-Tools/Delta-Set.git"
+  },
+  "author": "ThetaTools",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Theta-Tools/Delta-Set/issues"
+  },
+  "homepage": "https://github.com/Theta-Tools/Delta-Set#readme"
+}
