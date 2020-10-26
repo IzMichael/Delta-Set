@@ -1,6 +1,6 @@
 {
   "name": "@thetatools/delta-set",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Theta Tools: Delta Set is a set of HTML based website templates",
   "main": "index.js",
   "scripts": {
